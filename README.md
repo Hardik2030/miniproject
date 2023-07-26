@@ -1,3 +1,6 @@
+![localhost_3000_home](https://github.com/Hardik2030/miniproject/assets/134700195/c2165999-8031-4175-8a4e-36c9c784b448)
+![localhost_3000_login](https://github.com/Hardik2030/miniproject/assets/134700195/e7f14719-a828-4c4d-a8a1-33e5eed97061)
+![localhost_3000_login (1)](https://github.com/Hardik2030/miniproject/assets/134700195/fdc0e61a-d37f-43a9-9921-db530986380c)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
